@@ -1,0 +1,4 @@
+#Sun Mar 03 16:43:27 IST 2019
+base.0=D\:\\flutter_projects\\trociety_security\\build\\app\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

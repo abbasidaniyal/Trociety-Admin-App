@@ -1,0 +1,4 @@
+com.example.trociety_security
+drawable launch_background
+mipmap ic_launcher
+style LaunchTheme
